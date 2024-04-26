@@ -9,7 +9,7 @@ package competec.aula0_tipos_primitivos;
 public class Exercicio1 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
-
+        System.out.println("Teste");
 
     }
 }

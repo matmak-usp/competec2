@@ -8,7 +8,7 @@ package competec.aula1_ramificacoes;
 public class Exercicio1 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
-
+        System.out.println("Teste 2");
 
     }
 }
